@@ -1,5 +1,6 @@
 rule Win_Mal_PlugX {
 
+meta:
 author = "Christiaan Beek at rapid7 dot com"
         date = "2023-01-13"
         version = "1"
